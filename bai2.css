@@ -1,0 +1,28 @@
+
+.doan1{
+    
+    color: crimson;
+}
+
+.doan2{  
+    
+    color: blue;
+}
+
+.doan3{
+   
+    color:chartreuse;
+}
+.doan4{
+
+    color: crimson;
+}
+.doan1, .doan2, .doan3, .doan4{
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+b{
+    color: brown;
+}
